@@ -1,3 +1,7 @@
+# All rights of the audio files to be downloaded are reserved by ximalaya.com
+# Special thanks to Mr.陈辉权 whom is the reader of these tang dynasty poems in Cantonese, and his main page on ximalaya.com is https://www.ximalaya.com/zhubo/30268914/
+# The page of these poems is https://www.ximalaya.com/renwen/2776000/
+
 import requests
 from bs4 import BeautifulSoup
 
